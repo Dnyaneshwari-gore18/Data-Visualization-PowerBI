@@ -1,2 +1,4 @@
-# Data-Visualization-PowerBI
-This Power BI dashboard provides a comprehensive sales analysis for an e-commerce business. It helps top-performing products, and regional sales distribution using interactive visualizations. This process involves data preprocessing,data cleaning ,and data visualizations
+Blinkit grocery data analysis (Interactive dashboard creation using power BI desktop)
+
+project objective
+ the blinkit grocery wants to create an sales report to understand the sales performance
