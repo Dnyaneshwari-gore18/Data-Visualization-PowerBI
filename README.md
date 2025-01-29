@@ -5,3 +5,8 @@ the blinkit grocery wants to create an sales report to understand the sales perf
 
 # Dataset used
 ##-<a href="https://drive.google.com/drive/folders/1mKh61zKVBnPJN0A5lc77osGNkmNa-loI">BLINKIT GROCERY DATA</a>
+
+# Technologies Used
+##Power BI (for visualization)
+##Excel / Power Query (for data processing)
+##DAX (for calculations & measures)
