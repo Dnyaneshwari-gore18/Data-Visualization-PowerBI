@@ -19,19 +19,20 @@ the blinkit grocery wants to create an sales report to understand the sales perf
 
 # Chart Requirements
 1) Total sales by Fat content 
-    objective: Analyze the impact of fat content on total sales
-    Chart Type: Donut Chart
+Objective: Analyze the impact of fat content on total sales
+Chart Type: Donut Chart
 2) Total sales by Items Type 
-    objective: Identify the performance of different item types in terms of total sales
-    Chart Type: Bar Chart
+Objective: Identify the performance of different item types in terms of total sales
+Chart Type: Bar Chart
 3) Fat content by Outlet for total sales
-    objective: compare total sales across different outlets segmented by fat content
-    Chart Type: Stacked Column Chart
-4) Total sales by outlet establishment
-    objective: Evaluate how the age or type of outlet establishment influences total sales                
-    Chart Type: Line Chart
+Objective: compare total sales across different outlets segmented by fat content
+Chart Type: Stacked Column Chart
+5) Total sales by outlet establishment
+Objective: Evaluate how the age or type of outlet establishment influences total sales                
+Chart Type: Line Chart
 
-dashboard interaction -<a href="C:\Users\user4\OneDrive\Documents\Power BI Desktop\project 1.pbix">dashboard on power BI</a>
+# dashboard interaction 
+-<a href="C:/Users/user4/OneDrive/Documents/Power BI Desktop/project 1.pbix">dashboard on power BI</a>
 
 
 
