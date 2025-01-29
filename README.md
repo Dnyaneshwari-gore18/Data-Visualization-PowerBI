@@ -31,8 +31,7 @@ Chart Type: Stacked Column Chart
 Objective: Evaluate how the age or type of outlet establishment influences total sales                
 Chart Type: Line Chart
 
-# dashboard interaction 
-##-<a href="C:/Users/user4/OneDrive/Documents/Power BI Desktop/project 1.pbix">dashboard on power BI</a>
+
 
 
 
